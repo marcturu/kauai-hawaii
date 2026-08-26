@@ -45,7 +45,7 @@ node -v
 ### a1. Clone the repository
 ```bash
 git clone https://github.com/marcturu/kauai-hawaii
-cd https://github.com/marcturu/kauai-hawaii
+cd kauai-hawaii
 ```
 
 ### a2. Install dependencies
