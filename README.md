@@ -68,7 +68,10 @@ You can try the deployed version directly in the browser:
 > ℹ️ **Deployment details:**
 > The project is deployed on [Netlify](https://netlify.com) from the `main` branch.
 > - **Build command:** `npm run build`
-> - **Publish directory:** `dist`
+> - **Publish directory:** `dist`  
+
+### c1. Watch the Demo
+🎥 **A [Recorded Demo](https://www.dropbox.com/scl/fi/m4rul9311og3n6sfalr6f/Kauai-Hawaii-Demo.mkv?rlkey=o1n077rqg5xb7of3e3kyxb3ed&st=kcj7mouv&dl=0) is also available**.
 
 ---
 
