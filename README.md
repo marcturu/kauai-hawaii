@@ -9,17 +9,15 @@
 ![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-<sub>🗓️ Developed during the 2025-2026 academic year</sub>
+<sub>🗓️ Developed in March 2026 </sub>
 
 This project is a **one-page website** dedicated to **Kaua'i**, the Hawaiian island that served as a filming location for *Jurassic Park*.
 
-Developed using version 3.x of [UOC Boilerplate](https://github.com/uoc-advanced-html-css/uoc-boilerplate) as the starter template: a modern frontend development base that includes Parcel, a Sass compiler, an ES6 transpiler, minifiers, an image transformer, and development tools.
-
-Created by Jordi Tarrida (jorditarrida@uoc.edu).
+Developed using version 3.x of [UOC Boilerplate](https://github.com/uoc-advanced-html-css/uoc-boilerplate) as the starter template: a modern frontend development base that includes Parcel, a Sass compiler, an ES6 transpiler, minifiers, an image transformer, and development tools. Created by Jordi Tarrida (jorditarrida@uoc.edu).
 
 ---
 
-## ✅ Sections
+## ✅ Features
 
 - **Hero**: full-screen video with animated title.
 - **The Garden Isle**: introduction to the island and its connection to *Jurassic Park*.
@@ -166,3 +164,9 @@ src/
 
 ## 📷 Screenshots 
 
+### Page (Desktop):
+![DesktopPage](screenshots/Desktop_page.png)
+-
+
+### Page (Mobile):
+![MobilePage](screenshots/Mobile_page.png)
