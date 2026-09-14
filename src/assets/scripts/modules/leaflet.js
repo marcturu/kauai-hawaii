@@ -30,7 +30,10 @@ export function initMap() {
   })
 
   jpLocations.forEach(({ coords, title, scene }) => {
-    L.marker(coords, { icon })
+    const marker = L.marker(coords, { 
+      icon,
+      title: `Filming location: ${title}`,
+    })
       .addTo(map)
       .bindPopup(
         `<div class="map-popup">
@@ -38,5 +41,10 @@ export function initMap() {
           <span class="map-popup__scene">${scene}</span>
         </div>`
       )
+
+    marker.getElement().setAttribute(
+      'aria-label',
+      `Filming location: ${title}`
+    )
   })
 }
