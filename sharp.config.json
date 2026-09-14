@@ -9,7 +9,7 @@
     "progressive": true
   },
   "webp": {
-    "quality": 70,
+    "quality": 90,
     "effort": 6
   }
 }
