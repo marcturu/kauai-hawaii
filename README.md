@@ -11,7 +11,7 @@
 
 <sub>🗓️ Developed in March 2026 </sub>
 
-This project is a **one-page website** dedicated to **Kaua'i**, the Hawaiian island that served as a filming location for *Jurassic Park*.
+This project is a **mobile-first, one-page website** dedicated to **Kaua'i**, the Hawaiian island where *Jurassic Park* was filmed. Built as a front-end showcase with ITCSS, BEM and modern tooling, it features an interactive map, a touch carousel and smooth scroll animations.  
 
 Developed using version 3.x of [UOC Boilerplate](https://github.com/uoc-advanced-html-css/uoc-boilerplate) as the starter template: a modern frontend development base that includes Parcel, a Sass compiler, an ES6 transpiler, minifiers, an image transformer, and development tools. Created by Jordi Tarrida (jorditarrida@uoc.edu).
 
