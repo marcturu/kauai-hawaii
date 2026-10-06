@@ -1,4 +1,4 @@
-# <img src="src/assets/images/kauai-logo.png" alt="Kaua'i" width="100"/> — Interactive web experience exploring Kaua'i
+# <img src="src/assets/images/kauai-logo.png" alt="Kaua'i" width="100"/> — Exploring Kaua'i: Where Jurassic Park Was Born
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
